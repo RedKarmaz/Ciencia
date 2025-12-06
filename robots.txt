@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://redkarmaz.github.io/Ciencia/sitemap.xml

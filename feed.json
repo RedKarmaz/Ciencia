@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog de Ciencia",
+    "description": "",
+    "home_page_url": "https://redkarmaz.github.io/Ciencia",
+    "feed_url": "https://redkarmaz.github.io/Ciencia/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Franco Richieri"
+    },
+    "items": [
+        {
+            "id": "https://redkarmaz.github.io/Ciencia/neurona/",
+            "url": "https://redkarmaz.github.io/Ciencia/neurona/",
+            "title": "Neurona",
+            "summary": "La neurona es fascinante, la sinapsis también",
+            "content_html": "<p>La neurona es fascinante, la sinapsis también</p>\n<p> </p>",
+            "author": {
+                "name": "Franco Richieri"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-05T09:51:37-03:00",
+            "date_modified": "2025-12-05T09:57:28-03:00"
+        }
+    ]
+}

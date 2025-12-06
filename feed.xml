@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Blog de Ciencia</title>
+    <link href="https://redkarmaz.github.io/Ciencia/feed.xml" rel="self" />
+    <link href="https://redkarmaz.github.io/Ciencia" />
+    <updated>2025-12-05T09:57:28-03:00</updated>
+    <author>
+        <name>Franco Richieri</name>
+    </author>
+    <id>https://redkarmaz.github.io/Ciencia</id>
+
+    <entry>
+        <title>Neurona</title>
+        <author>
+            <name>Franco Richieri</name>
+        </author>
+        <link href="https://redkarmaz.github.io/Ciencia/neurona/"/>
+        <id>https://redkarmaz.github.io/Ciencia/neurona/</id>
+
+        <updated>2025-12-05T09:57:28-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    La neurona es fascinante, la sinapsis también
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>La neurona es fascinante, la sinapsis también</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
